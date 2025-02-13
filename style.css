@@ -48,12 +48,6 @@ body,html {
     text-align: center;
 }
 
-.image-header {
-    width: 40rem;
-    height: 14rem;
-    object-fit: cover;
-    border-radius: 10px;
-}
 
 
 .section-title {
@@ -84,4 +78,13 @@ body,html {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
+    /* background-color: #F58428; */
 }
+
+.image-header:hover {
+    transform: scale(1.1);
+}
+
+
+
+
